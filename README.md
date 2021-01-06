@@ -1,4 +1,4 @@
-# Taxpayers Political Party
+# Taxpayer's Political Party
 DPhi Machine Learning Bootcamp Datathon 1 
 
 ## Objective 
